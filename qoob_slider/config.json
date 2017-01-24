@@ -17,11 +17,11 @@
             "label": "Header",
             "type": "text"
         }, {
-            "name": "action_text",
+            "name": "actionText",
             "label": "Action button text",
             "type": "text"
         }, {
-            "name": "action_hover",
+            "name": "actionHover",
             "label": "Button hover effect",
             "type": "select",
             "options": [{
@@ -44,7 +44,7 @@
                 "val": "from center to top and bottom side"
             }]
         }, {
-            "name": "action_url",
+            "name": "actionUrl",
             "label": "Url for action button",
             "type": "text"
         }, {
@@ -64,49 +64,49 @@
             "title" : "slide 1",
             "header": "This slider and it’s customizable too",
             "image": "%block_url%/assets/img/slide1.jpg",
-            "action_text": "Try now",
-            "action_hover": "hdf",
-            "action_url": "http://qoob.it/",
+            "actionText": "Try now",
+            "actionHover": "hdf",
+            "actionUrl": "http://qoob.it/",
             "order": 0
         }, {
             "title" : "slide 2",
             "header": "This slider and it’s customizable too",
             "image": "%block_url%/assets/img/slide1.jpg",
-            "action_text": "Try now",
-            "action_hover": "hdf",
-            "action_url": "http://qoob.it/",
+            "actionText": "Try now",
+            "actionHover": "hdf",
+            "actionUrl": "http://qoob.it/",
             "order": 1
         }, {
             "title" : "slide 2",
             "header": "This slider and it’s customizable too",
             "image": "%block_url%/assets/img/slide1.jpg",
-            "action_text": "Try now",
-            "action_hover": "hdf",
-            "action_url": "http://qoob.it/",
+            "actionText": "Try now",
+            "actionHover": "hdf",
+            "actionUrl": "http://qoob.it/",
             "order": 2
         }, {
             "title" : "slide 3",
             "header": "This slider and it’s customizable too",
             "image": "%block_url%/assets/img/slide1.jpg",
-            "action_text": "Try now",
-            "action_hover": "hdf",
-            "action_url": "http://qoob.it/",
+            "actionText": "Try now",
+            "actionHover": "hdf",
+            "actionUrl": "http://qoob.it/",
             "order": 3
         }, {
             "title" : "slide 4",
             "header": "This slider and it’s customizable too",
             "image": "%block_url%/assets/img/slide1.jpg",
-            "action_text": "Try now",
-            "action_hover": "hdf",
-            "action_url": "http://qoob.it/",
+            "actionText": "Try now",
+            "actionHover": "hdf",
+            "actionUrl": "http://qoob.it/",
             "order": 4
         }, {
             "title" : "slide 5",
             "header": "This slider and it’s customizable too",
             "image": "%block_url%/assets/img/slide1.jpg",
-            "action_text": "Try now",
-            "action_hover": "hdf",
-            "action_url": "http://qoob.it/",
+            "actionText": "Try now",
+            "actionHover": "hdf",
+            "actionUrl": "http://qoob.it/",
             "order": 5
         }]
     }

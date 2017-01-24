@@ -11,7 +11,7 @@
         "label": "Description",
         "type": "textarea"
     }, {
-        "name": "bg_image_url",
+        "name": "bgImageUrl",
         "label": "Background image",
         "type": "image"
     }, {
@@ -32,7 +32,7 @@
     "defaults": {
         "header": "This is video block",
         "description": "<p>You can change colors of the boxes whatever you want</p>",
-        "bg_image_url": "%block_url%/assets/img/video_bg.jpg",
+        "bgImageUrl": "%block_url%/assets/img/video_bg.jpg",
         "poster" : "%block_url%/assets/img/poster.jpg",
         "url": "%block_url(assets)%/assets/videos/cube_girl.mp4"
     }

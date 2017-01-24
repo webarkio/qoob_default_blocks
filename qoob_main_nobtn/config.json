@@ -12,7 +12,7 @@
         "type": "textarea"
     },
     {
-        "name": "bg_image_url",
+        "name": "bgImageUrl",
         "label": "Background image",
         "type": "image"
     }],
@@ -23,7 +23,7 @@
     }],
     "defaults": {
         "header": "Hello! This is pack of fully customizable blocks",
-        "bg_image_url": "%block_url%/assets/img/main_nobtn_bg.jpg",
+        "bgImageUrl": "%block_url%/assets/img/main_nobtn_bg.jpg",
         "description": "<p>You can change all elemenths of the blocks whatever you want, so you have a lot variations to create great website</p>"
     }
 }

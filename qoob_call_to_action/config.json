@@ -1,6 +1,6 @@
 {
     "name": "",
-    "groups": "call_to_action",
+    "groups": "callToAction",
     "template": "template.hbs",
     "settings": [{
         "name": "header",
@@ -11,12 +11,12 @@
         "label": "Description",
         "type": "textarea"
     }, {
-        "name": "action_text",
+        "name": "actionText",
         "label": "Action button text",
         "type": "text"
     }, 
     {
-        "name": "action_hover",
+        "name": "actionHover",
         "label": "Button hover effect",
         "type": "select",
         "options": [{
@@ -43,12 +43,12 @@
         }]
     },
     {
-        "name": "action_url",
+        "name": "actionUrl",
         "label": "Url for action button",
         "type": "text"
     },
     {
-        "name": "bg_image_url",
+        "name": "bgImageUrl",
         "label": "Background image",
         "type": "image"
     }],
@@ -59,10 +59,10 @@
     }],
     "defaults": {
         "header": "Call to action block",
-        "bg_image_url": "%block_url%/assets/img/call_to_action_bg.jpg",
-        "action_text": "Try now",
-        "action_hover" : "hdf",
-        "action_url": "http://qoob.it/",
+        "bgImageUrl": "%block_url%/assets/img/call_to_action_bg.jpg",
+        "actionText": "Try now",
+        "actionHover" : "hdf",
+        "actionUrl": "http://qoob.it/",
         "description": "<p>Hey! You can add  this block</p>"
     }
 }

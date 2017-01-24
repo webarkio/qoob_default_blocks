@@ -1,6 +1,6 @@
 {
     "name": "",
-    "groups": "icon_box",
+    "groups": "iconBox",
     "template": "template.hbs",
     "settings": [
     {
@@ -39,37 +39,37 @@
             }]
         },
         {
-            "name": "border_color",
+            "name": "borderColor",
             "type": "colorpicker",
             "label": "Border color",
             "colors": ["#905cc2 ", "#efb20d ", "#48a348 "]
         },
         {
-            "name": "header_front",
+            "name": "headerFront",
             "label": "Header front",
             "type": "text"
         }, {
-            "name": "description_front",
+            "name": "descriptionFront",
             "label": "Text front",
             "type": "textarea"
         },
         {
-            "name": "bg_color_front",
+            "name": "bgColorFront",
             "type": "colorpicker",
             "label": "Background color",
             "colors": ["#5b3381 ", "#efb20d ", "#48a348 "]
         },
         {
-            "name": "header_back",
+            "name": "headerBack",
             "label": "Header back",
             "type": "text"
         }, {
-            "name": "description_back",
+            "name": "descriptionBack",
             "label": "Text back",
             "type": "textarea"
         },
          {
-            "name": "bg_color_back",
+            "name": "bgColorPack",
             "type": "colorpicker",
             "label": "Background color",
             "colors": ["#5b3381 ", "#efb20d ", "#48a348 "]
@@ -81,35 +81,35 @@
         "cards": [{
             "title": "Card 1",
             "type" : "v1",
-            "border_color": "#905cc2",
-            "header_front": "It's fun, try it",
-            "header_back": "Call to action block",
-            "description_front": "<p>Hover over card to see the flip in action</p>",
-            "description_back": "<p>Hover over card to see the flip in action</p>",
-            "bg_color_front" : "#5b3381",
-            "bg_color_back" : "#5b3381",
+            "borderColor": "#905cc2",
+            "headerFront": "It's fun, try it",
+            "headerBack": "Call to action block",
+            "descriptionFront": "<p>Hover over card to see the flip in action</p>",
+            "descriptionBack": "<p>Hover over card to see the flip in action</p>",
+            "bgColorFront" : "#5b3381",
+            "bgColorBack" : "#5b3381",
             "order": 0
         }, {
             "title": "Card 2",
             "type" : "v2",
-            "border_color": "#efb20d",
-            "header_front": "It's fun, try it",
-            "header_back": "Call to action block",
-            "description_front": "<p>Hover over card to see the flip in action</p>",
-            "description_back": "<p>Hover over card to see the flip in action</p>",
-            "bg_color_front" : "#efb20d",
-            "bg_color_back" : "#efb20d",
+            "borderColor": "#efb20d",
+            "headerFront": "It's fun, try it",
+            "headerFback": "Call to action block",
+            "descriptionFront": "<p>Hover over card to see the flip in action</p>",
+            "descriptionBback": "<p>Hover over card to see the flip in action</p>",
+            "bgColorFront" : "#efb20d",
+            "bgColorBack" : "#efb20d",
             "order": 1
         }, {
             "title": "Card 3",
             "type" : "v3",
-            "border_color": "#48a348",
-            "header_front": "It's fun, try it",
-            "header_back": "Call to action block",
-            "description_front": "<p>Hover over card to see the flip in action</p>",
-            "description_back": "<p>Hover over card to see the flip in action</p>",
-            "bg_color_front" : "#48a348",
-            "bg_color_back" : "#48a348",
+            "borderColor": "#48a348",
+            "headerFront": "It's fun, try it",
+            "headerBack": "Call to action block",
+            "descriptionFront": "<p>Hover over card to see the flip in action</p>",
+            "descriptionBack": "<p>Hover over card to see the flip in action</p>",
+            "bgColorFront" : "#48a348",
+            "bgColorBack" : "#48a348",
             "order": 2
         }]
     }

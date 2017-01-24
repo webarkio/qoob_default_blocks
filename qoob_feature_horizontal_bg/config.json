@@ -1,6 +1,6 @@
 {
     "name": "",
-    "groups": "icon_box",
+    "groups": "iconBox",
     "template": "template.hbs",
     "settings": [{
         "name": "header",
@@ -11,18 +11,16 @@
         "label": "Description",
         "type": "textarea"
     }, {
-        "name": "bg_color",
+        "name": "bgColor",
         "type": "colorpicker",
         "label": "Background color",
         "colors": ["#ffae02 ", "#8dc94a ", "#5795cc ", "#ed4e42 ", "#a85b97 "]
-    }, 
-    {
-        "name": "bg_image",
+    }, {
+        "name": "bgImage",
         "type": "image",
         "label": "Background image",
         "tags": ["bg", "background"]
-    },
-    {
+    }, {
         "name": "cards",
         "label": "Cards",
         "type": "accordion",
@@ -30,22 +28,22 @@
             "name": "title",
             "label": "Title",
             "type": "text"
-        },{
-            "name": "figure_bg_color",
+        }, {
+            "name": "figureBgColor",
             "type": "colorpicker",
             "label": "Figure color",
             "colors": ["#f0a202 ", "#a8dadc ", "#f45b69 ", "#33032f"]
         }, {
-            "name": "icon_front",
+            "name": "iconFront",
             "label": "Icon for front side",
             "type": "icon",
             "presets": ["glyphicon glyphicon-heart", "glyphicon glyphicon-search", "glyphicon glyphicon-time", "glyphicon glyphicon-map-marker"]
         }, {
-            "name": "header_item",
+            "name": "headerItem",
             "label": "Header front",
             "type": "text"
         }, {
-            "name": "description_item",
+            "name": "descriptionItem",
             "label": "Text front",
             "type": "textarea"
         }]
@@ -58,39 +56,39 @@
     "defaults": {
         "header": "Also you can use custom features form",
         "description": "<p>You can change forms and all colors of the boxes whatever you want</p>",
-        "bg_color": "#12222f",
-        "bg_image": "%block_url%/assets/img/feat_bg.jpg",
+        "bgColor": "#12222f",
+        "bgImage": "%block_url%/assets/img/feat_bg.jpg",
         "cards": [{
             "title": "Card 1",
-            "figure_bg_color" : "#f0a202",
-            "icon_front": "glyphicon glyphicon-heart",
-            "icon_back": "glyphicon glyphicon-heart",
-            "header_item": "Rounded",
-            "description_item": "<p>Curabitur arcu erat, accumsan id imperdiet et, porttitor at sem donec sollicitudin molestie</p>",
+            "figureBgColor": "#f0a202",
+            "iconFront": "glyphicon glyphicon-heart",
+            "iconBack": "glyphicon glyphicon-heart",
+            "headerItem": "Rounded",
+            "descriptionItem": "<p>Curabitur arcu erat, accumsan id imperdiet et, porttitor at sem donec sollicitudin molestie</p>",
             "order": 0
         }, {
             "title": "Card 2",
-            "figure_bg_color" : "#f0a202",
-            "icon_front": "glyphicon glyphicon-search",
-            "icon_back": "glyphicon glyphicon-search",
-            "header_item": "Square",
-            "description_item": "<p>Curabitur arcu erat, accumsan id imperdiet et, porttitor at sem donec sollicitudin molestie</p>",
+            "figureBgColor": "#f0a202",
+            "iconFront": "glyphicon glyphicon-search",
+            "iconBack": "glyphicon glyphicon-search",
+            "headerItem": "Square",
+            "descriptionItem": "<p>Curabitur arcu erat, accumsan id imperdiet et, porttitor at sem donec sollicitudin molestie</p>",
             "order": 1
         }, {
             "title": "Card 3",
-            "figure_bg_color" : "#f0a202",
-            "icon_front": "glyphicon glyphicon-time",
-            "icon_back": "glyphicon glyphicon-time",
-            "header_item": "Circular",
-            "description_item": "<p>Curabitur arcu erat, accumsan id imperdiet et, porttitor at sem donec sollicitudin molestie</p>",
+            "figureBgColor": "#f0a202",
+            "iconFront": "glyphicon glyphicon-time",
+            "iconBack": "glyphicon glyphicon-time",
+            "headerItem": "Circular",
+            "descriptionItem": "<p>Curabitur arcu erat, accumsan id imperdiet et, porttitor at sem donec sollicitudin molestie</p>",
             "order": 2
         }, {
             "title": "Card 3",
-            "figure_bg_color" : "#f0a202",
-            "icon_front": "glyphicon glyphicon-map-marker",
-            "icon_back": "glyphicon glyphicon-map-marker",
-            "header_item": "Rhombus",
-            "description_item": "<p>Curabitur arcu erat, accumsan id imperdiet et, porttitor at sem donec sollicitudin molestie</p>",
+            "figureBgColor": "#f0a202",
+            "iconFront": "glyphicon glyphicon-map-marker",
+            "iconBack": "glyphicon glyphicon-map-marker",
+            "headerItem": "Rhombus",
+            "descriptionItem": "<p>Curabitur arcu erat, accumsan id imperdiet et, porttitor at sem donec sollicitudin molestie</p>",
             "order": 3
         }]
     }
