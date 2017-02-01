@@ -6,6 +6,10 @@
         { "type": "icon", "pack": "glyphicon", "classes": "glyphicon glyphicon-minus", "tags": "minus dash" },
         { "type": "icon", "pack": "glyphicon", "classes": "glyphicon glyphicon-cloud", "tags": "cloud" },
         { "type": "icon", "pack": "glyphicon", "classes": "glyphicon glyphicon-envelope", "tags": "envelope mail" },
-        { "type": "icon", "pack": "glyphicon", "classes": "glyphicon glyphicon-pencil", "tags": "pencil" }
+        { "type": "icon", "pack": "glyphicon", "classes": "glyphicon glyphicon-pencil", "tags": "pencil" },
+        { "type": "icon", "pack": "glyphicon", "classes": "glyphicon glyphicon-search", "tags": "search loupe" },
+        { "type": "icon", "pack": "glyphicon", "classes": "glyphicon glyphicon-heart", "tags": "heart favorite" },
+        { "type": "icon", "pack": "glyphicon", "classes": "glyphicon glyphicon-time", "tags": "time clock" },
+        { "type": "icon", "pack": "glyphicon", "classes": "glyphicon glyphicon-map-marker", "tags": "mapmarker pin" }
     ]
 }

@@ -1,6 +1,6 @@
 {
     "name": "",
-    "groups": "progress_bar",
+    "groups": "progressBar",
     "template": "template.hbs",
     "settings": [{
         "name": "header",
