@@ -103,7 +103,7 @@
                 "title": "Item 3",
                 "figureForm": "square",
                 "figureBgColor": "#f45b69",
-                "iconGront": "glyphicon glyphicon-time",
+                "iconFront": "glyphicon glyphicon-time",
                 "iconBack": "glyphicon glyphicon-time",
                 "headerItem": "Circular",
                 "descriptionItem": "<p>Curabitur arcu erat, accumsan id imperdiet et, porttitor at sem donec sollicitudin molestie</p>",
