@@ -1,13 +1,18 @@
-{
+[{
+    "url": "qoob/qoob/blocks",
     "name": "Default",
     "groups": [{
+        "id": "main",
+        "label": "Main",
+        "position": "0"
+    }, {
         "id": "text",
         "label": "Text",
-        "position": "0"
+        "position": "1"
     }, {
         "id": "gallery",
         "label": "Gallery",
-        "position": "1"
+        "position": "7"
     }, {
         "id": "slider",
         "label": "Slider",
@@ -24,58 +29,123 @@
         "id": "other",
         "label": "Other",
         "position": "5"
+    }, {
+        "id": "progressBar",
+        "label": "Progress bars",
+        "position": "6"
+    }, {
+        "id": "iconBox",
+        "label": "Icon boxes",
+        "position": "8"
+    }, {
+        "id": "testimonial",
+        "label": "Testimonial",
+        "position": "9"
     }],
     "blocks": [{
-        "name": "demo_text",
-        "url": "%lib_url%/demo_text/"
-    }, {
-        "name": "demo_text_2_col",
-        "url": "%lib_url%/demo_text_2_col/"
-    }, {
-        "name": "demo_blockquote",
-        "url": "%lib_url%/demo_blockquote/"
-    }, {
         "name": "qoob_call_to_action",
-        "url": "%lib_url%/qoob_call_to_action/"
+        "url": "qoob_call_to_action/"
     }, {
-        "name": "demo_iconbox",
-        "url": "%lib_url%/demo_iconbox/"
+        "name": "qoob_cards",
+        "url": "qoob_cards/"
     }, {
-        "name": "glyphicons",
-        "url": "%lib_url%/glyphicons/"
+        "name": "qoob_main",
+        "url": "qoob_main/"
     }, {
-        "name": "demo_map",
-        "url": "%lib_url%/demo_map/"
+        "name": "qoob_main_nobtn",
+        "url": "qoob_main_nobtn/"
     }, {
-        "name": "demo_video",
-        "url": "%lib_url%/demo_video/"
+        "name": "qoob_text",
+        "url": "qoob_text/"
     }, {
-        "name": "demo_carousel",
-        "url": "%lib_url%/demo_carousel/"
+        "name": "qoob_text_bg",
+        "url": "qoob_text_bg/"
     }, {
-        "name": "demo_gallery",
-        "url": "%lib_url%/demo_gallery/"
+        "name": "qoob_testimonial_grid",
+        "url": "qoob_testimonial_grid/"
+    }, {
+        "name": "qoob_feature",
+        "url": "qoob_feature/"
+    }, {
+        "name": "qoob_map",
+        "url": "qoob_map/"
+    }, {
+        "name": "qoob_iconbox",
+        "url": "qoob_iconbox/"
+    }, {
+        "name": "qoob_slider",
+        "url": "qoob_slider/"
+    }, {
+        "name": "qoob_slider_notext",
+        "url": "qoob_slider_notext/"
+    }, {
+        "name": "qoob_gallery",
+        "url": "qoob_gallery/"
+    }, {
+        "name": "qoob_progressbar",
+        "url": "qoob_progressbar/"
+    }, {
+        "name": "qoob_progressbar_v2",
+        "url": "qoob_progressbar_v2/"
+    }, {
+        "name": "qoob_video",
+        "url": "qoob_video/"
+    }, {
+        "name": "qoob_testimonial_slider",
+        "url": "qoob_testimonial_slider/"
+    }, {
+        "name": "qoob_cards_v2",
+        "url": "qoob_cards_v2/"
+    }, {
+        "name": "qoob_feature_horizontal_bg",
+        "url": "qoob_feature_horizontal_bg/"
+    }, {
+        "name": "qoob_video_v2",
+        "url": "qoob_video_v2/"
+    }, {
+        "name": "qoob_feature_list",
+        "url": "qoob_feature_list/"
+    }, {
+        "name": "qoob_feature_two_row",
+        "url": "qoob_feature_two_row/"
     }, {
         "name": "assets",
         "url": "http://webark.com/qoob/blocks/default/media/"
     }, {
-        "name": "demo_slider",
-        "url": "%lib_url%/demo_slider/"
+        "name": "glyphicons",
+        "url": "glyphicons/"
+    }, {
+        "name": "fontawesome",
+        "url": "fontawesome/"
     }],
-    "res": {
-        "css": [{
-            "name": "qoob_default_css",
-            "url": "%lib_url%/lib.css"
-        }, {
-            "name": "owl-carousel",
-            "url": "%lib_url%/demo_slider/assets/css/owl.carousel.css"
-        }, {
-            "name": "owl-carousel-theme",
-            "url": "%lib_url%/demo_slider/assets/css/owl.theme.css"
-        }],
-        "js": [{
-            "name": "owl-carousel",
-            "url": "%lib_url%/demo_slider/assets/js/owl.carousel.min.js"
-        }]
-    }
-}
+    "res": [{
+        "type": "css",
+        "name": "qoob-default-css",
+        "src": "lib.css"
+    }, {
+        "type": "css",
+        "name": "glyphicons-css",
+        "src": "glyphicons/assets/css/glyphicons.css"
+    }, {
+        "type": "css",
+        "name": "fontawesome-css",
+        "src": "fontawesome/assets/css/fontawesome.css"
+    }, {
+        "type": "css",
+        "name": "owl-carousel",
+        "src": "qoob_slider/assets/css/owl.carousel.css"
+    }, {
+        "type": "css",
+        "name": "owl-carousel-theme",
+        "src": "qoob_slider/assets/css/owl.theme.css"
+    }, {
+        "type": "js",
+        "name": "owl-carousel-js",
+        "src": "qoob_slider/assets/js/owl.carousel.min.js"
+    }, {
+        "type": "js",
+        "name": "qoob-default-js",
+        "src": "lib.js",
+        "backend": true
+    }]
+}]
