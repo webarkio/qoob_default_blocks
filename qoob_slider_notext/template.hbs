@@ -27,8 +27,17 @@ jQuery(document).ready(function() {
                 dots: false
             }
         }
-  });
+    });
 
+    // load first refresh
     $owl.trigger('refresh.owl.carousel');
+    // after resize refresh
+    jQuery(window).resize(function() {
+        clearTimeout(window.resizedFinished);
+        window.resizedFinished = setTimeout(function(){
+            $owl.trigger('refresh.owl.carousel');
+        }, 250);
+    });
+    
 });
 </script>
