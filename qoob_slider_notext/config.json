@@ -14,7 +14,8 @@
             "name": "image",
             "label": "Image",
             "type": "image",
-            "tags": ["bg"]
+            "tags": ["bg"],
+            "hideDeleteButton": 1
         }]
     }],
     "assets": [{
