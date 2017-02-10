@@ -1,5 +1,6 @@
 [{
     "url": "qoob/qoob/blocks",
+    "update": "qoob/qoob/blocks/lib.sjon",
     "name": "Default",
     "groups": [{
         "id": "main",
@@ -148,4 +149,17 @@
         "src": "lib.js",
         "backend": true
     }]
+}, {
+    "url": "http://localhost:8000/libs_test.json",
+    "name": "test_theme",
+    "groups": [{
+        "id": "video",
+        "label": "Test",
+        "position": 2
+    }],
+    "blocks": [{
+        "name": "video",
+        "url": "video/"
+    }],
+    "res": []
 }]
