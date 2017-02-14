@@ -22,8 +22,8 @@
         "tags": ["woman"]
     }],
     "defaults": {
-        "header": "Hello! This is pack of fully customizable blocks",
+        "header": "It's high time to see Qoob in action",
         "bgImageUrl": "%block_url%/assets/img/main_nobtn_bg.jpg",
-        "description": "<p>You can change all elemenths of the blocks whatever you want, so you have a lot variations to create great website</p>"
+        "description": "<p>Check out Qoob's distinct features that set it apart from other page creators</p>"
     }
 }

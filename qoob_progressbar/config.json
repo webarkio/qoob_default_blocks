@@ -44,24 +44,24 @@
     ]
     }],
     "defaults": {
-        "header": "Call to action block",
+        "header": "Identify your skills",
         "bgColor": "#fe5f55",
-        "description": "<p>Hey! You can add  this block</p>",
+        "description": "<p>With these amazing progress bars you can estimate your project</p>",
         "bars": [{
-            "title" : "Сlients happiness",
-            "progress": "50",
+            "title" : "PHP",
+            "progress": "75",
             "progressBarBg" : "#9a3b35",
             "progressBg" : "#d65148",
             "order": 0
         },{
-            "title" : "Сlients happiness",
-            "progress": "50",
+            "title" : "Javascript",
+            "progress": "60",
             "progressBarBg" : "#9a3b35",
             "progressBg" : "#d65148",
             "order": 1
         },{
-            "title" : "Сlients happiness",
-            "progress": "50",
+            "title" : "MySQL",
+            "progress": "40",
             "progressBg" : "#d65148",
             "order": 2
         }]

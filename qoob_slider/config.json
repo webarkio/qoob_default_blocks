@@ -63,7 +63,7 @@
     "defaults": {
         "images": [{
             "title" : "slide 1",
-            "header": "This slider and it’s customizable too",
+            "header": "Enjoy fast image management with simplified sliders",
             "image": "%block_url%/assets/img/slide1.jpg",
             "actionText": "Try now",
             "actionHover": "hdf",
@@ -71,39 +71,39 @@
             "order": 0
         }, {
             "title" : "slide 2",
-            "header": "This slider and it’s customizable too",
+            "header": "Add attractive visual effect to your website",
             "image": "%block_url%/assets/img/slide1.jpg",
             "actionText": "Try now",
             "actionHover": "hdf",
             "actionUrl": "http://qoob.it/",
             "order": 1
         }, {
-            "title" : "slide 2",
-            "header": "This slider and it’s customizable too",
+            "title" : "slide 3",
+            "header": "Display your multimedia content in a non-intrusive way",
             "image": "%block_url%/assets/img/slide1.jpg",
             "actionText": "Try now",
             "actionHover": "hdf",
             "actionUrl": "http://qoob.it/",
             "order": 2
         }, {
-            "title" : "slide 3",
-            "header": "This slider and it’s customizable too",
+            "title" : "slide 4",
+            "header": "Make your website stand out from the crowd",
             "image": "%block_url%/assets/img/slide1.jpg",
             "actionText": "Try now",
             "actionHover": "hdf",
             "actionUrl": "http://qoob.it/",
             "order": 3
         }, {
-            "title" : "slide 4",
-            "header": "This slider and it’s customizable too",
+            "title" : "slide 5",
+            "header": "Be sure that your visitors get the best viewing experience ever!",
             "image": "%block_url%/assets/img/slide1.jpg",
             "actionText": "Try now",
             "actionHover": "hdf",
             "actionUrl": "http://qoob.it/",
             "order": 4
         }, {
-            "title" : "slide 5",
-            "header": "This slider and it’s customizable too",
+            "title" : "slide 6",
+            "header": "Give a personal touch to this very slider now!",
             "image": "%block_url%/assets/img/slide1.jpg",
             "actionText": "Try now",
             "actionHover": "hdf",

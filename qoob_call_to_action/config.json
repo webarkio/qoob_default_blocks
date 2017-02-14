@@ -58,11 +58,11 @@
         "tags": ["bg"]
     }],
     "defaults": {
-        "header": "Call to action block",
+        "header": "Let's be friends!",
         "bgImageUrl": "%block_url%/assets/img/call_to_action_bg.jpg",
         "actionText": "Try now",
         "actionHover" : "hdf",
         "actionUrl": "http://qoob.it/",
-        "description": "<p>Hey! You can add  this block</p>"
+        "description": "<p>Add this call-to action block to your own website</p>"
     }
 }

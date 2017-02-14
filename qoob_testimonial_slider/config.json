@@ -30,26 +30,26 @@
         }]
     }],
     "defaults": {
-        "header": "Reviews Of our clients",
-        "description" : "<p>Cras ultricies ligula sed magna dictum porta.</p>",
+        "header": "Show the reviews of your loyal clients to the world",
+        "description" : "<p>Always be in touch with your customers</p>",
         "testimonial": [{
             "title" : "Mari Javani",
-            "text" : "<p>Cras ultricies ligula sed magna dictum porta. Quisque velit nisi, pretium ut lacinia in, elementum id enim. Donec rutrum congue leo eget malesuada. Vivamus suscipit tortor eget felis porttitor volutpat. Curabitur aliquet quam id dui posuere blandit. Vestibulum ac diam sit amet quam vehicula elementum sed sit amet dui. Pellentesque in ipsum id orci porta dapibus.</p>",
+            "text" : "<p>Add your own text here. Make it short and clear</p>",
             "image": "%block_url%/assets/img/person.jpg",
             "order": 0
         }, {
-            "title" : "Mari Javani",
-            "text" : "<p>Cras ultricies ligula sed magna dictum porta. Quisque velit nisi, pretium ut lacinia in, elementum id enim. Donec rutrum congue leo eget malesuada. Vivamus suscipit tortor eget felis porttitor volutpat. Curabitur aliquet quam id dui posuere blandit. Vestibulum ac diam sit amet quam vehicula elementum sed sit amet dui. Pellentesque in ipsum id orci porta dapibus.</p>",
+            "title" : "Luis Ricardo",
+            "text" : "<p>Add your own text here. Make it short and clear</p>",
             "image": "%block_url%/assets/img/person.jpg",
             "order": 1
         }, {
-            "title" : "Mari Javani",
-            "text" : "<p>Cras ultricies ligula sed magna dictum porta. Quisque velit nisi, pretium ut lacinia in, elementum id enim. Donec rutrum congue leo eget malesuada. Vivamus suscipit tortor eget felis porttitor volutpat. Curabitur aliquet quam id dui posuere blandit. Vestibulum ac diam sit amet quam vehicula elementum sed sit amet dui. Pellentesque in ipsum id orci porta dapibus.</p>",
+            "title" : "Steve Blaster",
+            "text" : "<p>Add your own text here. Make it short and clear</p>",
             "image": "%block_url%/assets/img/person.jpg",
             "order": 2
         }, {
-            "title" : "Mari Javani",
-            "text" : "<p>Cras ultricies ligula sed magna dictum porta. Quisque velit nisi, pretium ut lacinia in, elementum id enim. Donec rutrum congue leo eget malesuada. Vivamus suscipit tortor eget felis porttitor volutpat. Curabitur aliquet quam id dui posuere blandit. Vestibulum ac diam sit amet quam vehicula elementum sed sit amet dui. Pellentesque in ipsum id orci porta dapibus.</p>",
+            "title" : "Lee Chong",
+            "text" : "<p>Add your own text here. Make it short and clear</p>",
             "image": "%block_url%/assets/img/person.jpg",
             "order": 3
         }]

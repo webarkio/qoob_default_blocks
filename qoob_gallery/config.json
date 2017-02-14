@@ -26,8 +26,8 @@
         }]
     }],
     "defaults": {
-        "header": "This is gallery block",
-        "description": "<p>Yes, gallery can be fun</p>",
+        "header": "Portfolio page",
+        "description": "<p>Showcase your great project and impress your potential customers wth ease</p>",
         "gallery": [{
             "title": "Image 1",
             "image": "%block_url%/assets/img/1.jpg",

@@ -61,8 +61,8 @@
         }]
     }],
     "defaults": {
-        "header": "Also you can use custom features form",
-        "description": "<p>You can change forms and all colors of the boxes whatever you want</p>",
+        "header": "Experience complete control over the look and feel of your website",
+        "description": "<p>Modify all the elements of cards: shape, color, icon and text in a few clicks</p>",
         "bgColor": "#535382",
         "cards": [{
             "title": "Card 1",
@@ -71,7 +71,7 @@
             "iconFront": "glyphicon glyphicon-heart",
             "iconBack": "glyphicon glyphicon-heart",
             "headerItem": "Rounded",
-            "descriptionItem": "<p>Curabitur arcu erat, accumsan id imperdiet et, porttitor at sem donec sollicitudin molestie</p>",
+            "descriptionItem": "<p>Add your own text here. Make it short and clear</p>",
             "order": 0
         }, {
             "title": "Card 2",
@@ -79,8 +79,8 @@
             "figureBgColor" : "#a8dadc",
             "iconFront": "glyphicon glyphicon-search",
             "iconBack": "glyphicon glyphicon-search",
-            "headerItem": "Square",
-            "descriptionItem": "<p>Curabitur arcu erat, accumsan id imperdiet et, porttitor at sem donec sollicitudin molestie</p>",
+            "headerItem": "Or square",
+            "descriptionItem": "<p>Add your own text here. Make it short and clear</p>",
             "order": 1
         }, {
             "title": "Card 3",
@@ -88,17 +88,17 @@
             "figureBgColor" : "#f45b69",
             "iconFront": "glyphicon glyphicon-time",
             "iconBack": "glyphicon glyphicon-time",
-            "headerItem": "Circular",
-            "descriptionItem": "<p>Curabitur arcu erat, accumsan id imperdiet et, porttitor at sem donec sollicitudin molestie</p>",
+            "headerItem": "Maybe circular..",
+            "descriptionItem": "<p>Add your own text here. Make it short and clear</p>",
             "order": 2
         }, {
-            "title": "Card 3",
+            "title": "Card 4",
             "figureForm": "rhombus",
             "figureBgColor" : "#33032f",
             "iconFront": "glyphicon glyphicon-map-marker",
             "iconBack": "glyphicon glyphicon-map-marker",
-            "headerItem": "Rhombus",
-            "descriptionItem": "<p>Curabitur arcu erat, accumsan id imperdiet et, porttitor at sem donec sollicitudin molestie</p>",
+            "headerItem": "Why not rhombus?",
+            "descriptionItem": "<p>Add your own text here. Make it short and clear</p>",
             "order": 3
         }]
     }

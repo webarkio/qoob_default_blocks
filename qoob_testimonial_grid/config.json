@@ -34,43 +34,43 @@
         }]
     }],
     "defaults": {
-        "header": "Also you can use horisontal features form",
-        "description": "<p>You can change forms and all colors of the boxes whatever you want</p>",
+        "header": "Reviews of our clients",
+        "description": "<p>We're always here to give you a helping hand</p>",
         "testimonial": [{
-            "title": "JASON SCHOENIG",
-            "text": "<p>Cras ultricies ligula sed magna dictum porta. Quisque velit nisi, pretium ut lacinia in, elementum id enim. Donec rutrum congue leo eget malesuada. Vivamus suscipit tortor eget felis porttitor volutpat.</p>",
-            "company": "MARKIT STRATEGIES",
+            "title": "Steve Blaster",
+            "text": "<p>Qoob is truly one of the simple and user-friendly page builders. It took us a little time to get started with our new project. We've created several sites based on Qoob and really pleased with the results we've got.</p>",
+            "company": "Irrida E-store",
             "image": "%block_url%/assets/img/person.jpg",
             "order": 0
         }, {
-            "title": "BRIAN MEERT",
-            "text": "<p>Cras ultricies ligula sed magna dictum porta. Quisque velit nisi, pretium ut lacinia in, elementum id enim. Donec rutrum congue leo eget malesuada. Vivamus suscipit tortor eget felis porttitor volutpat. Cras ultricies ligula sed magna dictum porta. Quisque velit nisi, pretium ut lacinia in, elementum id enimortor eget felis porttitor volutpat.</p>",
+            "title": "Lee Chong",
+            "text": "<p>I really love this cute page creator. You're able to create incredible website that will showcase your projects. I have no doubts you really need to try it.</p>",
             "image": "%block_url%/assets/img/person1.jpg",
-            "company": "TRANSCORR NATIONAL LOGISTICS",
+            "company": "photographer&illustrator",
             "order": 1
         }, {
-            "title": "Mari Javani",
-            "text": "<p>Cras ultricies ligula sed magna dictum porta. Quisque velit nisi, pretium ut lacinia in, elementum id enim. ivamus suscipit tortor eget felis porttitor volutpat. Cras ultricies ligula sed magna dictum porta. Donec rutrum congue leo eget malesuada. Vivamus suscipit tortor eget felis porttitor volutpat.</p>",
+            "title": "Mark Jones",
+            "text": "<p>No words but emotions... You can really see how your wishes fulfill. Qoob is the greatest helper in launching your startup and making it succesful.</p>",
             "image": "%block_url%/assets/img/person2.jpg",
-            "company": "MARKIT STRATEGIES",
+            "company": "BE2bill solutions",
             "order": 2
         }, {
-            "title": "Mari Javani",
-            "text": "<p>Cras ultricies ligula sed magna dictum porta. Quisque velit nisi, pretium ut lacinia in, elementum id enim. Donec rutrum congue leo eget malesuada. Vivamus suscipit tortor eget felis porttitor volutpat. Curabitur aliquet quam id dui posuere blandit. Vestibulum ac diam sit amet quam vehicula elementum sed sit amet dui. Pellentesque in ipsum id orci porta dapibus.</p>",
+            "title": "Andrew McDonald",
+            "text": "<p>That's really wow how powerful Qoob is! Just a few click and your custmozied site is done. With its interface editing might seem to be a breeze. No efforts, no difficulties, nothing...</p>",
             "image": "%block_url%/assets/img/person3.jpg",
-            "company": "MARKIT STRATEGIES",
+            "company": "onlycoffee bar&restaurant",
             "order": 3
         }, {
-            "title": "Mari Javani",
-            "text": "<p>Cras ultricies ligula sed magna dictum porta. Quisque velit nisi, pretium ut lacinia in, elementum id enim. Donec rutrum congue leo eget malesuada. Vivamus suscipit tortor eget felis porttitor volutpat. Curabitur aliquet quam id dui posuere blandit. Vestibulum ac diam sit amet quam vehicula elementum sed sit amet dui. Pellentesque in ipsum id orci porta dapibus.</p>",
+            "title": "Luis Ricardo",
+            "text": "<p>It's amazing how easily you can build the website of your dream. Just move the blocks and you're done! No coding and desigh skills are needed. It's really a miracle!</p>",
             "image": "%block_url%/assets/img/person4.jpg",
-            "company": "MARKIT STRATEGIES",
+            "company": "Source.IT.com",
             "order": 4
         }, {
-            "title": "Mari Javani",
-            "text": "<p>Cras ultricies ligula sed magna dictum porta. Quisque velit nisi, pretium ut lacinia in, elementum id enim. Donec rutrum congue leo eget malesuada. Vivamus suscipit tortor eget felis porttitor volutpat. Curabitur aliquet quam id dui posuere blandit. Vestibulum ac diam sit amet quam vehicula elementum sed sit amet dui. Pellentesque in ipsum id orci porta dapibus.</p>",
+            "title": "Rita Spenser",
+            "text": "<p>Well done! Let experts do your job for you and you will succeed. We've tried the best website builder&editor and never regreted. The code is perfectly clean and the documentation is well prepared. Everything is ready and works properly.</p>",
             "image": "%block_url%/assets/img/person5.jpg",
-            "company": "MARKIT STRATEGIES",
+            "company": "nicebouquet online shop",
             "order": 5
         }]
     }

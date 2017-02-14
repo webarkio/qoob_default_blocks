@@ -25,7 +25,7 @@
     }],
     "defaults" : {
         "header": "Google maps",
-        "description": "<p>You can add google maps block for your website</p>",
+        "description": "<p>Use customized maps to make your website interactive. You can drop a pin that identifies your location and specify zoom level</p>",
         "lat": "47.497912",
         "lng": "19.04023499999994",
         "size": "15"
