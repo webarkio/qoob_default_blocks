@@ -76,8 +76,8 @@
         }]
     }],
     "defaults": {
-        "header": "Also you can use custom features form",
-        "description": "<p>You can change forms and all colors of the boxes whatever you want</p>",
+        "header": "The technologies we utilize",
+        "description": "<p>Thank to cutting edge trends in web developing we help your brand stay current, competitive and ensure your website is driving results you want</p>",
         "featureRow": [{
             "title": "Row 1",
             "typeRow": "4",
@@ -87,8 +87,8 @@
                 "figureBgColor": "#f0a202",
                 "iconFront": "glyphicon glyphicon-heart",
                 "iconBack": "glyphicon glyphicon-heart",
-                "headerItem": "Rounded",
-                "descriptionItem": "<p>Curabitur arcu erat, accumsan id imperdiet et, porttitor at sem donec sollicitudin molestie</p>",
+                "headerItem": "WordPress",
+                "descriptionItem": "<p>Add your own text here. Make it short and clear</p>",
                 "order": 0
             }, {
                 "title": "Item 2",
@@ -96,8 +96,8 @@
                 "figureBgColor": "#a8dadc",
                 "iconFront": "glyphicon glyphicon-search",
                 "iconBack": "glyphicon glyphicon-search",
-                "headerItem": "Square",
-                "descriptionItem": "<p>Curabitur arcu erat, accumsan id imperdiet et, porttitor at sem donec sollicitudin molestie</p>",
+                "headerItem": "Backbone.js",
+                "descriptionItem": "<p>Add your own text here. Make it short and clear</p>",
                 "order": 1
             }, {
                 "title": "Item 3",
@@ -105,8 +105,8 @@
                 "figureBgColor": "#f45b69",
                 "iconFront": "glyphicon glyphicon-time",
                 "iconBack": "glyphicon glyphicon-time",
-                "headerItem": "Circular",
-                "descriptionItem": "<p>Curabitur arcu erat, accumsan id imperdiet et, porttitor at sem donec sollicitudin molestie</p>",
+                "headerItem": "PHP",
+                "descriptionItem": "<p>Add your own text here. Make it short and clear</p>",
                 "order": 2
             }, {
                 "title": "Item 3",
@@ -114,8 +114,8 @@
                 "figureBgColor": "#33032f",
                 "iconFront": "glyphicon glyphicon-map-marker",
                 "iconBack": "glyphicon glyphicon-map-marker",
-                "headerItem": "Rhombus",
-                "descriptionItem": "<p>Curabitur arcu erat, accumsan id imperdiet et, porttitor at sem donec sollicitudin molestie</p>",
+                "headerItem": "Bootstrap",
+                "descriptionItem": "<p>Add your own text here. Make it short and clear</p>",
                 "order": 3
             }],
             "order": 0
@@ -128,8 +128,8 @@
                 "figureBgColor": "#fbbfca",
                 "iconFront": "glyphicon glyphicon-heart",
                 "iconBack": "glyphicon glyphicon-heart",
-                "headerItem": "Rounded",
-                "descriptionItem": "<p>Curabitur arcu erat, accumsan id imperdiet et, porttitor at sem donec sollicitudin molestie</p>",
+                "headerItem": "Underscore.js",
+                "descriptionItem": "<p>Add your own text here. Make it short and clear</p>",
                 "order": 0
             }, {
                 "title": "Item 2",
@@ -137,8 +137,8 @@
                 "figureBgColor": "#d2bf55",
                 "iconFront": "glyphicon glyphicon-search",
                 "iconBack": "glyphicon glyphicon-search",
-                "headerItem": "Square",
-                "descriptionItem": "<p>Curabitur arcu erat, accumsan id imperdiet et, porttitor at sem donec sollicitudin molestie</p>",
+                "headerItem": "Handlebars",
+                "descriptionItem": "<p>Add your own text here. Make it short and clear</p>",
                 "order": 1
             }, {
                 "title": "Item 3",
@@ -146,8 +146,8 @@
                 "figureBgColor": "#84dcc6",
                 "iconFront": "glyphicon glyphicon-time",
                 "iconBack": "glyphicon glyphicon-time",
-                "headerItem": "Circular",
-                "descriptionItem": "<p>Curabitur arcu erat, accumsan id imperdiet et, porttitor at sem donec sollicitudin molestie</p>",
+                "headerItem": "jQuery",
+                "descriptionItem": "<p>Add your own text here. Make it short and clear</p>",
                 "order": 2
             }],
             "order": 1

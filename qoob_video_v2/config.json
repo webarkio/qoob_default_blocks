@@ -30,8 +30,8 @@
         "tags": ["woman"]
     }],
     "defaults": {
-        "header": "This is video block",
-        "description": "<p>You can change colors of the boxes whatever you want</p>",
+        "header": "Manage your video elements with simple clicks of the mouse!",
+        "description": "<p>You can add your self-hosted video using the built-in file uploader. Share your ideas with the world!</p>",
         "bgImageUrl": "%block_url%/assets/img/video_bg.jpg",
         "poster" : "%block_url%/assets/img/poster.jpg",
         "url": "%block_url(assets)%/assets/videos/cube_girl.mp4"

@@ -26,19 +26,19 @@
         }]
     }],
     "defaults": {
-        "header": "Amazing progress bars",
-        "description": "<p>You can change forms and all colors of the boxes and background whatever you want</p>",
+        "header": "Customize the quantitative tools",
+        "description": "<p>Change the forms and all colors of the boxes and background at any time and much more!</p>",
         "bars": [{
-            "title" : "Сlients happiness",
-            "progress": "100",
+            "title" : "PHP",
+            "progress": "90",
             "order": 0
         },{
-            "title" : "Сlients happiness",
-            "progress": "62",
+            "title" : "Javascript",
+            "progress": "75",
             "order": 1
         },{
-            "title" : "Сlients happiness",
-            "progress": "30",
+            "title" : "MySQL",
+            "progress": "40",
             "order": 2
         }]
     }

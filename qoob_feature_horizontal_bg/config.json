@@ -54,8 +54,8 @@
         "tags": ["woman"]
     }],
     "defaults": {
-        "header": "Also you can use custom features form",
-        "description": "<p>You can change forms and all colors of the boxes whatever you want</p>",
+        "header": "The benefits you get along with Qoob...",
+        "description": "<p></p>",
         "bgColor": "#12222f",
         "bgImage": "%block_url%/assets/img/feat_bg.jpg",
         "cards": [{
@@ -63,32 +63,32 @@
             "figureBgColor": "#f0a202",
             "iconFront": "glyphicon glyphicon-heart",
             "iconBack": "glyphicon glyphicon-heart",
-            "headerItem": "Rounded",
-            "descriptionItem": "<p>Curabitur arcu erat, accumsan id imperdiet et, porttitor at sem donec sollicitudin molestie</p>",
+            "headerItem": "Easy-to-use tools",
+            "descriptionItem": "<p>Building your website is the easiest of all time now</p>",
             "order": 0
         }, {
             "title": "Card 2",
             "figureBgColor": "#f0a202",
             "iconFront": "glyphicon glyphicon-search",
             "iconBack": "glyphicon glyphicon-search",
-            "headerItem": "Square",
-            "descriptionItem": "<p>Curabitur arcu erat, accumsan id imperdiet et, porttitor at sem donec sollicitudin molestie</p>",
+            "headerItem": "Realtime editing",
+            "descriptionItem": "<p>Modifying pages is simple and takes mere minutes</p>",
             "order": 1
         }, {
             "title": "Card 3",
             "figureBgColor": "#f0a202",
             "iconFront": "glyphicon glyphicon-time",
             "iconBack": "glyphicon glyphicon-time",
-            "headerItem": "Circular",
-            "descriptionItem": "<p>Curabitur arcu erat, accumsan id imperdiet et, porttitor at sem donec sollicitudin molestie</p>",
+            "headerItem": "Responsive design",
+            "descriptionItem": "<p>Your website is fully adjusted to all the existing devices</p>",
             "order": 2
         }, {
-            "title": "Card 3",
+            "title": "Card 4",
             "figureBgColor": "#f0a202",
             "iconFront": "glyphicon glyphicon-map-marker",
             "iconBack": "glyphicon glyphicon-map-marker",
-            "headerItem": "Rhombus",
-            "descriptionItem": "<p>Curabitur arcu erat, accumsan id imperdiet et, porttitor at sem donec sollicitudin molestie</p>",
+            "headerItem": "User-friendly interface",
+            "descriptionItem": "<p>No confusing admin panels. Just drag and drop</p>",
             "order": 3
         }]
     }

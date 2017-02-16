@@ -66,34 +66,34 @@
         }]
     }],
     "defaults": {
-        "header": "Also you can use custom features form",
-        "description": "<p>You can change forms and all colors of the boxes whatever you want</p>",
+        "header": "...and many more!",
+        "description": "<p>Make a beautiful website from scratch on your own for free with Qoob</p>",
         "bgColor": "#f0a202",
         "featureList": [{
             "title": "Card 1",
             "figureVar": "v2",
             "featureListItems": [{
                 "title": "Item 1",
-                "headerItem": "Color backgrounds",
-                "featureListItemText": "<p>Curabitur arcu erat, accumsan id imperdiet et, porttitor at sem donec sollicitudin  erat malаm olestie </p>",
+                "headerItem": "Neat and elegant design",
+                "featureListItemText": "<p>Add your own text here. Make it short and clear</p>",
                 "iconFront" : "glyphicon glyphicon-search",
                 "order": 1
             }, {
                 "title": "Item 2",
-                "headerItem": "Use it for fun",
-                "featureListItemText": "<p>Curabitur arcu erat, accumsan id imperdiet et, porttitor at sem donec sollicitudin  erat malаm olestie </p>",
+                "headerItem": "Stunning animation",
+                "featureListItemText": "<p>Add your own text here. Make it short and clear</p>",
                 "iconFront" : "glyphicon glyphicon-search",
                 "order": 2
             }, {
                 "title": "Item 3",
-                "headerItem": "List can be friendly",
-                "featureListItemText": "<p>Curabitur arcu erat, accumsan id imperdiet et, porttitor at sem donec sollicitudin  erat malаm olestie </p>",
+                "headerItem": "A number of bright themes",
+                "featureListItemText": "<p>Add your own text here. Make it short and clear</p>",
                 "iconFront" : "glyphicon glyphicon-search",
                 "order": 3
             }, {
                 "title": "Item 4",
-                "headerItem": "It’s so easy",
-                "featureListItemText": "<p>Curabitur arcu erat, accumsan id imperdiet et, porttitor at sem donec sollicitudin  erat malаm olestie </p>",
+                "headerItem": "Libraries and templates management",
+                "featureListItemText": "<p>Add your own text here. Make it short and clear</p>",
                 "iconFront" : "glyphicon glyphicon-search",
                 "order": 4
             }],
@@ -103,26 +103,26 @@
             "figureVar": "v1",
             "featureListItems": [{
                 "title": "Item 1",
-                "headerItem": "Color backgrounds",
-                "featureListItemText": "<p>Curabitur arcu erat, accumsan id imperdiet et, porttitor at sem donec sollicitudin  erat malаm olestie </p>",
+                "headerItem": "Unlimited colors",
+                "featureListItemText": "<p>Add your own text here. Make it short and clear</p>",
                 "iconFront" : "glyphicon glyphicon-search",
                 "order": 1
             }, {
                 "title": "Item 2",
-                "headerItem": "Use it for fun",
-                "featureListItemText": "<p>Curabitur arcu erat, accumsan id imperdiet et, porttitor at sem donec sollicitudin  erat malаm olestie </p>",
+                "headerItem": "Clean and clear interface",
+                "featureListItemText": "<p>Add your own text here. Make it short and clear</p>",
                 "iconFront" : "glyphicon glyphicon-search",
                 "order": 2
             }, {
                 "title": "Item 3",
-                "headerItem": "List can be friendly",
-                "featureListItemText": "<p>Curabitur arcu erat, accumsan id imperdiet et, porttitor at sem donec sollicitudin  erat malаm olestie </p>",
+                "headerItem": "Responsive design",
+                "featureListItemText": "<p>Add your own text here. Make it short and clear</p>",
                 "iconFront" : "glyphicon glyphicon-search",
                 "order": 3
             }, {
                 "title": "Item 4",
-                "headerItem": "It’s so easy",
-                "featureListItemText": "<p>Curabitur arcu erat, accumsan id imperdiet et, porttitor at sem donec sollicitudin  erat malаm olestie </p>",
+                "headerItem": "Customized options",
+                "featureListItemText": "<p>Add your own text here. Make it short and clear</p>",
                 "iconFront" : "glyphicon glyphicon-search",
                 "order": 4
             }],
@@ -132,26 +132,26 @@
             "figureVar": "v3",
             "featureListItems": [{
                 "title": "Item 1",
-                "headerItem": "Color backgrounds",
-                "featureListItemText": "<p>Curabitur arcu erat, accumsan id imperdiet et, porttitor at sem donec sollicitudin  erat malаm olestie </p>",
+                "headerItem": "Realtime editing mobile version",
+                "featureListItemText": "<p>Add your own text here. Make it short and clear</p>",
                 "iconFront" : "glyphicon glyphicon-search",
                 "order": 1
             }, {
                 "title": "Item 2",
-                "headerItem": "Use it for fun",
-                "featureListItemText": "<p>Curabitur arcu erat, accumsan id imperdiet et, porttitor at sem donec sollicitudin  erat malаm olestie </p>",
+                "headerItem": "All the options for free",
+                "featureListItemText": "<p>Add your own text here. Make it short and clear</p>",
                 "iconFront" : "glyphicon glyphicon-search",
                 "order": 2
             }, {
                 "title": "Item 3",
-                "headerItem": "List can be friendly",
-                "featureListItemText": "<p>Curabitur arcu erat, accumsan id imperdiet et, porttitor at sem donec sollicitudin  erat malаm olestie </p>",
+                "headerItem": "Extended documentation",
+                "featureListItemText": "<p>Add your own text here. Make it short and clear</p>",
                 "iconFront" : "glyphicon glyphicon-search",
                 "order": 3
             }, {
                 "title": "Item 4",
-                "headerItem": "It’s so easy",
-                "featureListItemText": "<p>Curabitur arcu erat, accumsan id imperdiet et, porttitor at sem donec sollicitudin  erat malаm olestie </p>",
+                "headerItem": "Clean code",
+                "featureListItemText": "<p>Add your own text here. Make it short and clear</p>",
                 "iconFront" : "glyphicon glyphicon-search",
                 "order": 4
             }],

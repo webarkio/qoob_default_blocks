@@ -58,11 +58,11 @@
         "tags": ["woman"]
     }],
     "defaults": {
-        "header": "Hello! This is pack of fully customizable blocks",
+        "header": "Hi! You're about to start your ideal website",
         "bgImageUrl": "%block_url%/assets/img/main_bg.jpg",
         "actionText": "Try now",
         "actionHover" : "hdf",
         "actionUrl": "http://qoob.it/",
-        "description": "<p>You can change all elemenths of the blocks whatever you want, so you have a lot variations to create great website</p>"
+        "description": "<p>Create the first page of your amazing website right now. You can modify the blocks of your website with tons of options</p>"
     }
 }

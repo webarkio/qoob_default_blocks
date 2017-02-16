@@ -39,31 +39,31 @@
         }]
     }],
     "defaults": {
-        "header": "This is block of features",
-        "description": "<p>You can change all colors of the boxes whatever you want</p>",
+        "header": "Give a brief overview of your unique features",
+        "description": "<p>We'll show you how to do it best by Qoob's example</p>",
         "iconbox": [{
             "title": "Card 1",
             "iconboxBgColor": "#30bced",
             "iconFront": "glyphicon glyphicon-heart",
             "iconBack": "glyphicon glyphicon-heart",
-            "headerItem": "Rounded",
-            "descriptionItem": "<p>Curabitur arcu erat, accumsan id imperdiet et, porttitor at sem donec sollicitudin molestie</p>",
+            "headerItem": "Managing templates",
+            "descriptionItem": "<p>Build your ideal website using a unique combination of blocks and saving your ready-made templates</p>",
             "order": 0
         }, {
             "title": "Card 2",
             "iconboxBgColor": "#303036",
             "iconFront": "glyphicon glyphicon-search",
             "iconBack": "glyphicon glyphicon-search",
-            "headerItem": "Square",
-            "descriptionItem": "<p>Curabitur arcu erat, accumsan id imperdiet et, porttitor at sem donec sollicitudin molestie</p>",
+            "headerItem": "Managing libraries",
+            "descriptionItem": "<p>Manage your pages templates within a single library. Create and change your list of libraries easily by adding, updating or deleting them</p>",
             "order": 1
         }, {
             "title": "Card 3",
             "iconboxBgColor": "#fc5130",
             "iconFront": "glyphicon glyphicon-time",
             "iconBack": "glyphicon glyphicon-time",
-            "headerItem": "Circular",
-            "descriptionItem": "<p>Curabitur arcu erat, accumsan id imperdiet et, porttitor at sem donec sollicitudin molestie</p>",
+            "headerItem": "A bunch of themes",
+            "descriptionItem": "<p>We have created a number of professionally designed and fully customizable themes for your unique website</p>",
             "order": 2
         }]
     }

@@ -56,43 +56,43 @@
         "tags": ["woman"]
     }],
     "defaults": {
-        "header": "Amazing cards block",
-        "description": "You can change forms and all colors of the boxes and background whatever you want",
+        "header": "Let the world know about you",
+        "description": "Cards are ideal for presenting your project to the  crowd. Nice animation will bring beguiling effect to your website",
         "bgImageUrl": "%block_url%/assets/img/cards_bg.jpg",
         "cards": [{
             "title": "Card 1",
             "iconFront": "glyphicon glyphicon-heart",
             "iconBack": "glyphicon glyphicon-heart",
-            "headerFront": "Call to action block",
+            "headerFront": "Live editing",
             "headerBack": "Call to action block",
-            "descriptionFront": "<p>Hover over card to see the flip in action</p>",
+            "descriptionFront": "<p>Qoob provides you with easy-to-use tools to edit and publish the content of the blocks instantly. You will be amazed to get a live preview of your page, that is being edited in real time</p>",
             "descriptionBack": "<p>Hover over card to see the flip in action</p>",
             "order": 0
         }, {
             "title": "Card 2",
             "iconFront": "glyphicon glyphicon-search",
             "iconBack": "glyphicon glyphicon-search",
-            "headerFront": "Call to action block",
+            "headerFront": "Always looking good",
             "headerBack": "Call to action block",
-            "descriptionFront": "<p>Hover over card to see the flip in action</p>",
+            "descriptionFront": "<p>Your website's pages built by Qoob display suitably on any screen size. Thank to responsive design and Retina ready your vistors will enjoy the viewing in any environment</p>",
             "descriptionBack": "<p>Hover over card to see the flip in action</p>",
             "order": 1
         }, {
             "title": "Card 3",
             "iconFront": "glyphicon glyphicon-time",
             "iconBack": "glyphicon glyphicon-time",
-            "headerFront": "Call to action block",
+            "headerFront": "Clean and Intuitive UI",
             "headerBack": "Call to action block",
-            "descriptionFront": "<p>Hover over card to see the flip in action</p>",
+            "descriptionFront": "<p>Qoob focuses on the overall design of the website without adding its own elements (frame, buttons and other components). Clean and intuitive UI makes editing simple and straightforward</p>",
             "descriptionBack": "<p>Hover over card to see the flip in action</p>",
             "order": 2
         }, {
             "title": "Card 4",
             "iconFront": "glyphicon glyphicon-map-marker",
             "iconBack": "glyphicon glyphicon-map-marker",
-            "headerFront": "Call to action block",
+            "headerFront": "Realtime editing mobile version",
             "headerBack": "Call to action block",
-            "descriptionFront": "<p>Hover over card to see the flip in action</p>",
+            "descriptionFront": "<p>It may undoubtedly turn out a wonder for you. With Qoob you can really get your website arranged faster in a tablet mode or even on a mobile device!</p>",
             "descriptionBack": "<p>Hover over card to see the flip in action</p>",
             "order": 3
         }]

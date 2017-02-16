@@ -12,7 +12,7 @@
         "type": "textarea"
     }],
     "defaults": {
-        "header": "Nullam dictum felis",
-        "text": "<p>Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac, enim. Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus. Phasellus viverra nulla ut metus varius laoreet.</p>"
+        "header": "Qoob - Realtime Wordpress page composer and editor",
+        "text": "<p>A free website builder offers a great number of tools and features with an intuitive interface. It is a powerful solution that enables you to make a customized website without any prior design and run it with minimum technical knowledge. The first page of your awesome website is just a few clicks away.</p>"
     }
 }
