@@ -3,12 +3,15 @@
     "groups": "video",
     "template": "template.hbs",
     "settings": [{
-        "name": "url",
+        "name": "src",
         "label": "Video",
         "type": "video",
         "tags": ["myVid"]
     }],
     "defaults": {
-        "url": "%block_url(assets)%/assets/videos/cube_girl.mp4"
+        "src": {
+            "url": "%block_url(assets)%/assets/videos/cube_girl.mp4",
+            "preview": "%block_url(assets)%/assets/img/cube_girl_preview.png"
+        }
     }
 }
