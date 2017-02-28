@@ -15,14 +15,10 @@
         "label": "Background image",
         "type": "image"
     }, {
-        "name": "url",
+        "name": "src",
         "label": "Video",
         "type": "video",
         "tags": ["myVid"]
-    }, {
-        "name": "poster",
-        "label": "Video poster",
-        "type": "image"
     }],
     "assets": [{
         "type": "image",
@@ -33,7 +29,9 @@
         "header": "Manage your video elements with simple clicks of the mouse!",
         "description": "<p>You can add your self-hosted video using the built-in file uploader. Share your ideas with the world!</p>",
         "bgImageUrl": "%block_url%/assets/img/video_bg.jpg",
-        "poster" : "%block_url%/assets/img/poster.jpg",
-        "url": "%block_url(assets)%/assets/videos/cube_girl.mp4"
+        "src": {
+            "url": "%block_url(assets)%/assets/videos/cube_girl.mp4",
+            "preview": "%block_url%/assets/img/poster.jpg"
+        }
     }
 }

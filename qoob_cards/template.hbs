@@ -51,19 +51,18 @@
         </div>
 </div>
 
-<script>
-    jQuery( document ).ready(function() {
-        jQuery('.qoob-cards-{{id}} .qoob-card__item').on('click', function() {
-            jQuery(this).toggleClass('qoob-card__item_flipped');
-        });
-
+<script type="text/javascript">
+    jQuery('.qoob-cards-{{id}} .qoob-card__item').on('click', function() {
+        jQuery(this).toggleClass('qoob-card__item_flipped');
+    });
+    jQuery(document).ready(function() {
         var borderWidth = parseInt(jQuery('.qoob-cards-{{id}}').find('.qoob-card__item').css("border-width"));
 
         jQuery('.qoob-cards-{{id}}').find('.qoob-card__inner').each(function(){
             jQuery(this).parents('.qoob-card').height(jQuery(this).outerHeight() + borderWidth * 2);
         });
     });
-    jQuery( window ).resize(function() {
+    jQuery(window).resize(function() {
         jQuery('.qoob-cards-{{id}}').find('.qoob-card').height('');
         var borderWidth = parseInt(jQuery('.qoob-cards-{{id}}').find('.qoob-card__item').css("border-width"));
         jQuery('.qoob-cards-{{id}}').find('.qoob-card__inner').each(function(){

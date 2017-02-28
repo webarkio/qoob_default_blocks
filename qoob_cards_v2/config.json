@@ -9,7 +9,7 @@
     }, {
         "name": "description",
         "label": "Description",
-        "type": "text"
+        "type": "textarea"
     }, {
         "name": "cards",
         "label": "Cards",
