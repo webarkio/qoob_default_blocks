@@ -1,4 +1,4 @@
-<div class="qoob-block qoob-cards qoob-cards_v2">
+<div class="qoob-block qoob-cards qoob-cards_v2-{{id}}">
         <div class="qb-container">
             <div class="qoob-header">
                 {{#if header}}
@@ -51,22 +51,21 @@
         </div>
 </div>
 
-<script>
-    jQuery( document ).ready(function() {
-        jQuery('.qoob-card__item').on('click', function() {
-            jQuery(this).toggleClass('qoob-card__item_flipped');
-        });
+<script type="text/javascript">
+    jQuery('.qoob-cards_v2-{{id}} .qoob-card__item').on('click', function() {
+        jQuery(this).toggleClass('qoob-card__item_flipped');
+    });
+    jQuery(document).ready(function() {
+        var borderWidth = parseInt(jQuery('.qoob-cards_v2-{{id}}').find('.qoob-card__item').css("border-width"));
 
-        var borderWidth = parseInt(jQuery('.qoob-card__item').css("border-width"));
-
-        jQuery('.qoob-card__inner').each(function(){
+        jQuery('.qoob-cards_v2-{{id}}').find('.qoob-card__inner').each(function(){
             jQuery(this).parents('.qoob-card').height(jQuery(this).outerHeight() + borderWidth * 2);
         });
     });
     jQuery( window ).resize(function() {
-        jQuery('.qoob-card').height('');
-        var borderWidth = parseInt(jQuery('.qoob-card__item').css("border-width"));
-        jQuery('.qoob-card__inner').each(function(){
+        jQuery('.qoob-cards_v2-{{id}}').find('.qoob-card').height('');
+        var borderWidth = parseInt(jQuery('qoob-cards_v2-{{id}}').find('.qoob-card__item').css("border-width"));
+        jQuery('.qoob-cards_v2-{{id}}').find('.qoob-card__inner').each(function(){
             jQuery(this).parents('.qoob-card').height(jQuery(this).outerHeight() + borderWidth * 2);
         });
     });
