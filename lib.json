@@ -6,43 +6,43 @@
     "groups": [{
         "id": "main",
         "label": "Main",
-        "position": "0"
+        "position": 0
     }, {
         "id": "text",
         "label": "Text",
-        "position": "1"
+        "position": 1
     }, {
         "id": "gallery",
         "label": "Gallery",
-        "position": "7"
+        "position": 7
     }, {
         "id": "slider",
         "label": "Slider",
-        "position": "2"
+        "position": 2
     }, {
         "id": "video",
         "label": "Video",
-        "position": "3"
+        "position": 3
     }, {
         "id": "callToAction",
         "label": "Call to action",
-        "position": "4"
+        "position": 4
     }, {
         "id": "other",
         "label": "Other",
-        "position": "5"
+        "position": 5
     }, {
         "id": "progressBar",
         "label": "Progress bars",
-        "position": "6"
+        "position": 6
     }, {
         "id": "iconBox",
         "label": "Icon boxes",
-        "position": "8"
+        "position": 8
     }, {
         "id": "testimonial",
         "label": "Testimonial",
-        "position": "9"
+        "position": 9
     }],
     "blocks": [{
         "name": "qoob_call_to_action",
