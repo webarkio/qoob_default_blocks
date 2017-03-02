@@ -56,7 +56,7 @@
         "bgImageUrl": "%block_url%/assets/img/main_bg.jpg",
         "actionText": "Try now",
         "actionHover": "hdf",
-        "actionUrl": "http://qoob.it/",
+        "actionUrl": "http://webark.com/qoob/",
         "description": "<p>Create the first page of your amazing website right now. You can modify the blocks of your website with tons of options</p>"
     }
 }

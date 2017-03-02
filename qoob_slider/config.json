@@ -67,7 +67,7 @@
             "image": "%block_url%/assets/img/slide1.jpg",
             "actionText": "Try now",
             "actionHover": "hdf",
-            "actionUrl": "http://qoob.it/",
+            "actionUrl": "http://webark.com/qoob/",
             "order": 0
         }, {
             "title" : "slide 2",
@@ -75,7 +75,7 @@
             "image": "%block_url%/assets/img/slide1.jpg",
             "actionText": "Try now",
             "actionHover": "hdf",
-            "actionUrl": "http://qoob.it/",
+            "actionUrl": "http://webark.com/qoob/",
             "order": 1
         }, {
             "title" : "slide 3",
@@ -83,7 +83,7 @@
             "image": "%block_url%/assets/img/slide1.jpg",
             "actionText": "Try now",
             "actionHover": "hdf",
-            "actionUrl": "http://qoob.it/",
+            "actionUrl": "http://webark.com/qoob/",
             "order": 2
         }, {
             "title" : "slide 4",
@@ -91,7 +91,7 @@
             "image": "%block_url%/assets/img/slide1.jpg",
             "actionText": "Try now",
             "actionHover": "hdf",
-            "actionUrl": "http://qoob.it/",
+            "actionUrl": "http://webark.com/qoob/",
             "order": 3
         }, {
             "title" : "slide 5",
@@ -99,7 +99,7 @@
             "image": "%block_url%/assets/img/slide1.jpg",
             "actionText": "Try now",
             "actionHover": "hdf",
-            "actionUrl": "http://qoob.it/",
+            "actionUrl": "http://webark.com/qoob/",
             "order": 4
         }, {
             "title" : "slide 6",
@@ -107,7 +107,7 @@
             "image": "%block_url%/assets/img/slide1.jpg",
             "actionText": "Try now",
             "actionHover": "hdf",
-            "actionUrl": "http://qoob.it/",
+            "actionUrl": "http://webark.com/qoob/",
             "order": 5
         }]
     }
