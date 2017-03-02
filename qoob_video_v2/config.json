@@ -18,7 +18,8 @@
         "name": "src",
         "label": "Video",
         "type": "video",
-        "tags": ["myVid"]
+        "tags": ["myVid"],
+        "hideDeleteButton": 1
     }],
     "assets": [{
         "type": "image",
