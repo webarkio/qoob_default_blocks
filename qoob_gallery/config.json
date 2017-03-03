@@ -81,50 +81,50 @@
     "assets": [{
         "type": "image",
         "src": "%block_url%/assets/img/1.jpg",
-        "tags": ["gallery"]
+        "tags": ["cup", "workplace", "work", "desk", "mouse", "job", "employment", "coffee", "business", "company"]
     }, {
         "type": "image",
         "src": "%block_url%/assets/img/2.jpg",
-        "tags": ["gallery"]
+        "tags": ["sky", "houses", "camp", "journey", "sea", "summer"]
     }, {
         "type": "image",
         "src": "%block_url%/assets/img/3.jpg",
-        "tags": ["gallery"]
+        "tags": ["workplace", "work", "desk", "mouse", "keyboard", "paper", "camera", "business", "company", "job", "employment"]
     }, {
         "type": "image",
         "src": "%block_url%/assets/img/4.jpg",
-        "tags": ["gallery"]
+        "tags": ["workplace", "work", "desk", "keyboard", "paper", "business", "company", "job", "employment", "glasses", "pencil", "notebook"]
     }, {
         "type": "image",
         "src": "%block_url%/assets/img/5.jpg",
-        "tags": ["gallery"]
+        "tags": ["workplace", "work", "desk", "business", "company", "job", "employment", "cup", "coffee", "ipad", "touch"]
     }, {
         "type": "image",
         "src": "%block_url%/assets/img/6.jpg",
-        "tags": ["gallery"]
+        "tags": ["workplace", "work", "desk", "business", "company", "job", "employment", "ipad", "touch", "processes"]
     }, {
         "type": "image",
         "src": "%block_url%/assets/img/7.jpg",
-        "tags": ["gallery"]
+        "tags": ["workplace", "work", "desk", "business", "company", "job", "employment", "cup", "coffee", "ipad", "touch", "headphones"]
     }, {
         "type": "image",
         "src": "%block_url%/assets/img/8.jpg",
-        "tags": ["gallery"]
+        "tags": ["workplace", "work", "desk", "business", "company", "job", "employment", "laptop", "headphones", "programming"]
     }, {
         "type": "image",
         "src": "%block_url%/assets/img/9.jpg",
-        "tags": ["gallery"]
+        "tags": ["workplace", "work", "desk", "business", "company", "job", "employment", "processes", "pencil", "notebook", "paper"]
     }, {
         "type": "image",
         "src": "%block_url%/assets/img/10.jpg",
-        "tags": ["gallery"]
+        "tags": ["camera", "work", "job", "photographer", "creative", "travels"]
     }, {
         "type": "image",
         "src": "%block_url%/assets/img/11.jpg",
-        "tags": ["gallery"]
+        "tags": ["workplace", "work", "desk", "keyboard", "paper", "business", "company", "job", "employment", "pencil", "notebook", "paper", "scissors", "creative"]
     }, {
         "type": "image",
         "src": "%block_url%/assets/img/12.jpg",
-        "tags": ["gallery"]
+        "tags": ["workplace", "work", "desk", "business", "company", "job", "employment", "ipad", "touch", "processes", "cup", "coffee", "headphones"]
     }]
 }

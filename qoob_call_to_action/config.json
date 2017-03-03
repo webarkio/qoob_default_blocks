@@ -55,7 +55,7 @@
     "assets": [{
         "type": "image",
         "src": "%block_url%/assets/img/call_to_action_bg.jpg",
-        "tags": ["bg"]
+        "tags": ["nature", "fog", "mountains", "sky"]
     }],
     "defaults": {
         "header": "Let's be friends!",

@@ -19,7 +19,7 @@
     "assets": [{
         "type": "image",
         "src": "%block_url%/assets/img/qoob_text_bg.jpg",
-        "tags": ["bg"]
+        "tags": ["sea", "water", "ship", "boat", "sky"]
     }],
     "defaults": {
         "bgImageUrl": "%block_url%/assets/img/qoob_text_bg.jpg",

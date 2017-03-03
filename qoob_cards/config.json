@@ -53,7 +53,7 @@
     "assets": [{
         "type": "image",
         "src": "%block_url%/assets/img/cards_bg.jpg",
-        "tags": ["woman"]
+        "tags": ["nature", "fog", "mountains", "rock", "forest", "wood", "sky"]
     }],
     "defaults": {
         "header": "Let the world know about you",

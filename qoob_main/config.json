@@ -49,7 +49,7 @@
     "assets": [{
         "type": "image",
         "src": "%block_url%/assets/img/main_bg.jpg",
-        "tags": ["woman"]
+        "tags": ["nature", "fog", "mountains", "rock", "sky"]
     }],
     "defaults": {
         "header": "Hi! You're about to start your ideal website",

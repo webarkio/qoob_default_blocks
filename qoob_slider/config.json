@@ -58,7 +58,7 @@
     "assets": [{
         "type": "image",
         "src": "%block_url%/assets/img/slide1.jpg",
-        "tags": ["bg"]
+        "tags": ["wood", "tree"]
     }],
     "defaults": {
         "images": [{

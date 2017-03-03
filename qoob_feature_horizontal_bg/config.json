@@ -51,7 +51,7 @@
     "assets": [{
         "type": "image",
         "src": "%block_url%/assets/img/feat_bg.jpg",
-        "tags": ["woman"]
+        "tags": ["nature", "sky", "night", "stars", "tree"]
     }],
     "defaults": {
         "header": "The benefits you get along with Qoob...",
