@@ -1,8 +1,8 @@
-[{
-    "url": "qoob/qoob/blocks",
+{
+    
     "update": "qoob/qoob/blocks/lib.json",
-    "version": "1.0.0",
     "name": "Default",
+    "version": "1.0.0",
     "groups": [{
         "id": "main",
         "label": "Main",
@@ -150,4 +150,4 @@
         "src": "lib.js",
         "backend": true
     }]
-}]
+}
