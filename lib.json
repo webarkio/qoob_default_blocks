@@ -2,7 +2,7 @@
     
     "update": "qoob/qoob/blocks/lib.json",
     "name": "Default",
-    "version": "1.0.0",
+    "version": "2.0.0",
     "groups": [{
         "id": "main",
         "label": "Main",
