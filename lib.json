@@ -133,18 +133,6 @@
         "name": "fontawesome-css",
         "src": "fontawesome/assets/css/fontawesome.css"
     }, {
-        "type": "css",
-        "name": "owl-carousel",
-        "src": "qoob_slider/assets/css/owl.carousel.css"
-    }, {
-        "type": "css",
-        "name": "owl-carousel-theme",
-        "src": "qoob_slider/assets/css/owl.theme.css"
-    }, {
-        "type": "js",
-        "name": "owl-carousel-js",
-        "src": "qoob_slider/assets/js/owl.carousel.min.js"
-    }, {
         "type": "js",
         "name": "qoob-default-js",
         "src": "lib.js",
