@@ -14,35 +14,31 @@
     }, {
         "id": "gallery",
         "label": "Gallery",
-        "position": 7
-    }, {
-        "id": "slider",
-        "label": "Slider",
-        "position": 2
+        "position": 6
     }, {
         "id": "video",
         "label": "Video",
-        "position": 3
+        "position": 2
     }, {
         "id": "callToAction",
         "label": "Call to action",
-        "position": 4
+        "position": 3
     }, {
         "id": "other",
         "label": "Other",
-        "position": 5
+        "position": 4
     }, {
         "id": "progressBar",
         "label": "Progress bars",
-        "position": 6
+        "position": 5
     }, {
         "id": "iconBox",
         "label": "Icon boxes",
-        "position": 8
+        "position": 7
     }, {
         "id": "testimonial",
         "label": "Testimonial",
-        "position": 9
+        "position": 8
     }],
     "blocks": [{
         "name": "qoob_call_to_action",
