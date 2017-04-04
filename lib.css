@@ -135,7 +135,9 @@
 }
 
 .qoob-header__title_color_white,
-.qoob-header__description_color_white {
+.qoob-header__description_color_white,
+.qoob-header__title_color_white p,
+.qoob-header__description_color_white p {
     color: #fff;
 }
 
@@ -409,6 +411,7 @@
 
 .qoob-card__headertext {
     color: #fff;
+    margin-top: 0;
     margin-bottom: 0;
     font-family: "robotobold";
     line-height: 1;
@@ -423,6 +426,7 @@
 
 .qoob-card__description p {
     line-height: 1.6;
+    color: #fff;
 }
 
 
@@ -629,13 +633,13 @@
     font-family: "robotobold", sans-serif;
 }
 
-.qoob-feature__description {
+.qoob-feature__description p {
     color: #fff;
     font-size: 16px;
     font-weight: 600;
 }
 
-.qoob-feature__description_color_black {
+.qoob-feature__description_color_black p {
     color: #000;
 }
 
@@ -875,6 +879,7 @@
 
 .qoob-iconbox__description p {
     line-height: 1.2;
+    color: #fff;
 }
 
 .qoob-iconbox-block__header {
@@ -2565,6 +2570,7 @@
     }
     .qoob-card__description p {
         line-height: 1.2;
+        color: #fff;
     }
     .qoob-card_v2 {
         margin-top: 0px;
