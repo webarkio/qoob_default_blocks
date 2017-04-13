@@ -118,10 +118,5 @@
         "type": "css",
         "name": "fontawesome-css",
         "src": "fontawesome/assets/css/fontawesome.css"
-    }, {
-        "type": "js",
-        "name": "qoob-default-js",
-        "src": "lib.js",
-        "backend": true
     }]
 }
