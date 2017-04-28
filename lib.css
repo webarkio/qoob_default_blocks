@@ -443,6 +443,10 @@
     font-size: 30px;
 }
 
+.qoob-main__description p {
+    color: #fff;
+}
+
 .qoob-main__button {
     margin-top: 94px;
 }
