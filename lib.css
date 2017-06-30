@@ -2793,4 +2793,10 @@
         width: 100%;
         margin-right: 0;
     }
+    .qoob-block_simple-bg .qoob-block__table {
+        display: block;
+    }
+    .qoob-block_simple-bg .qoob-block__table-cell {
+        display: block;
+    }
 }
