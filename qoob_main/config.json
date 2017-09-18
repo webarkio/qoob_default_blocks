@@ -44,7 +44,8 @@
     }, {
         "name": "bgImageUrl",
         "label": "Background image",
-        "type": "image"
+        "type": "image",
+        "tags": ["nature", "fog", "mountains", "rock", "sky"]
     }],
     "assets": [{
         "type": "image",
