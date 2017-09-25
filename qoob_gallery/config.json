@@ -32,6 +32,7 @@
             "title": "Image 1",
             "image": "%block_url%/assets/img/1.jpg",
             "order": 0
+
         }, {
             "title": "Image 2",
             "image": "%block_url%/assets/img/2.jpg",

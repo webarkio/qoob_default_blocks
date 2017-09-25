@@ -22,7 +22,8 @@
     }, {
         "name": "bgImageUrl",
         "label": "Background image",
-        "type": "image"
+        "type": "image",
+        "tags": ["nature", "fog", "mountains", "rock", "sky"]
     }, {
         "name": "date",
         "label": "Date",
