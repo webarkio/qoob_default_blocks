@@ -11,10 +11,15 @@
         "label": "Description",
         "type": "textarea"
     }, {
+            "name": "progress1",
+            "label": "Progress1",
+            "max": 150,
+            "min": 50,
+            "type": "slider"
+        },{
         "name": "bgColor",
-        "label": "Background color",
         "type": "colorpicker",
-        "colors": ["#30bced ", "#303036 ", "#fc5130 "]
+        "colors": ["#30bced ", "#303036 ", "#fc5130 ", "#9a3b35 ", "#d65148 ", "#fc5130 ", "#d65148 ", "#fc5130 "]
     }, {
         "name": "bars",
         "label": "Progress bars",
@@ -27,7 +32,7 @@
         {
             "name": "progress",
             "label": "Progress",
-             "type": "slider"
+            "type": "slider"
         },
         {
             "name": "progressBarBg",
@@ -46,6 +51,7 @@
     "defaults": {
         "header": "Identify your skills",
         "bgColor": "#fe5f55",
+        "progress1": 0,
         "description": "<p>With these amazing progress bars you can estimate your project</p>",
         "bars": [{
             "title" : "PHP",

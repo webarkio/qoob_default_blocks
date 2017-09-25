@@ -14,30 +14,8 @@
         "name": "actionText",
         "label": "Action button text",
         "type": "text"
-    }, {
-        "name": "actionHover",
-        "label": "Button hover effect",
-        "type": "select",
-        "options": [{
-            "id": "hdf",
-            "val": "fade in"
-        }, {
-            "id": "htb",
-            "val": "from top to bottom"
-        }, {
-            "id": "hrl",
-            "val": "from left to right"
-        }, {
-            "id": "hcs",
-            "val": "from center to left and right side"
-        }, {
-            "id": "hscs",
-            "val": "screw from center to left and right side"
-        }, {
-            "id": "hctb",
-            "val": "from center to top and bottom side"
-        }]
-    }, {
+    }, 
+    {
         "name": "actionUrl",
         "label": "Url for action button",
         "type": "text"
@@ -45,6 +23,14 @@
         "name": "bgImageUrl",
         "label": "Background image",
         "type": "image"
+    }, {
+        "name": "date",
+        "label": "Date",
+        "type": "datepicker"
+    },{
+        "name": "date2",
+        "label": "Date2",
+        "type": "datepicker"
     }],
     "assets": [{
         "type": "image",
@@ -52,10 +38,11 @@
         "tags": ["nature", "fog", "mountains", "rock", "sky"]
     }],
     "defaults": {
+        "date": "",
+        "date2": "",
         "header": "Hi! You're about to start your ideal website",
         "bgImageUrl": "%block_url%/assets/img/main_bg.jpg",
         "actionText": "Try now",
-        "actionHover": "hdf",
         "actionUrl": "http://webark.com/qoob/",
         "description": "<p>Create the first page of your amazing website right now. You can modify the blocks of your website with tons of options</p>"
     }
