@@ -2,24 +2,29 @@
     "name": "",
     "groups": "progressBar",
     "template": "template.hbs",
-    "settings": [{
+    "settings": [
+    {
         "name": "header",
         "label": "Header",
         "type": "text"
-    }, {
+    },
+    {
         "name": "description",
         "label": "Description",
         "type": "textarea"
-    }, {
+    },
+    {
         "name": "bgColor",
         "label": "Background color",
         "type": "colorpicker",
         "colors": ["#30bced ", "#303036 ", "#fc5130 "]
-    }, {
+    },
+    {
         "name": "bars",
         "label": "Progress bars",
         "type": "accordion",
-        "settings": [{
+        "settings": [
+        {
             "name": "title",
             "label": "Title",
             "type": "text"
@@ -27,7 +32,7 @@
         {
             "name": "progress",
             "label": "Progress",
-             "type": "slider"
+            "type": "slider"
         },
         {
             "name": "progressBarBg",
@@ -40,29 +45,32 @@
             "label": "Progress bar bg color",
             "type": "colorpicker",
             "colors": ["#9a3b35 ", "#d65148 ", "#fc5130 "]
-        }
-    ]
+        }]
     }],
-    "defaults": {
+    "defaults":
+    {
         "header": "Identify your skills",
         "bgColor": "#fe5f55",
         "description": "<p>With these amazing progress bars you can estimate your project</p>",
-        "bars": [{
-            "title" : "PHP",
+        "bars": [
+        {
+            "title": "PHP",
             "progress": "75",
-            "progressBarBg" : "#9a3b35",
-            "progressBg" : "#d65148",
+            "progressBarBg": "#9a3b35",
+            "progressBg": "#d65148",
             "order": 0
-        },{
-            "title" : "Javascript",
+        },
+        {
+            "title": "Javascript",
             "progress": "60",
-            "progressBarBg" : "#9a3b35",
-            "progressBg" : "#d65148",
+            "progressBarBg": "#9a3b35",
+            "progressBg": "#d65148",
             "order": 1
-        },{
-            "title" : "MySQL",
+        },
+        {
+            "title": "MySQL",
             "progress": "40",
-            "progressBg" : "#d65148",
+            "progressBg": "#d65148",
             "order": 2
         }]
     }

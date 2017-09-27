@@ -2,46 +2,56 @@
     "name": "",
     "groups": "iconBox",
     "template": "template.hbs",
-    "settings": [{
+    "settings": [
+    {
         "name": "header",
         "label": "Header",
         "type": "text"
-    }, {
+    },
+    {
         "name": "description",
         "label": "Description",
         "type": "textarea"
-    }, {
+    },
+    {
         "name": "iconbox",
         "label": "Items",
         "type": "accordion",
-        "settings": [{
+        "settings": [
+        {
             "name": "title",
             "label": "Title",
             "type": "text"
-        }, {
+        },
+        {
             "name": "iconboxBgColor",
             "type": "colorpicker",
             "label": "Figure color",
             "colors": ["#30bced ", "#303036 ", "#fc5130 "]
-        }, {
+        },
+        {
             "name": "iconFront",
             "label": "Icon for front side",
             "type": "icon",
             "presets": ["glyphicon glyphicon-heart", "glyphicon glyphicon-search", "glyphicon glyphicon-time", "glyphicon glyphicon-map-marker"]
-        }, {
+        },
+        {
             "name": "headerItem",
             "label": "Header front",
             "type": "text"
-        }, {
+        },
+        {
             "name": "descriptionItem",
             "label": "Text front",
             "type": "textarea"
         }]
     }],
-    "defaults": {
+    "defaults":
+    {
         "header": "Give a brief overview of your unique features",
         "description": "<p>We'll show you how to do it best by Qoob's example</p>",
-        "iconbox": [{
+        "iconbox": [
+        {
             "title": "Card 1",
             "iconboxBgColor": "#30bced",
             "iconFront": "glyphicon glyphicon-heart",
@@ -49,7 +59,8 @@
             "headerItem": "Managing templates",
             "descriptionItem": "<p>Build your ideal website using a unique combination of blocks and saving your ready-made templates</p>",
             "order": 0
-        }, {
+        },
+        {
             "title": "Card 2",
             "iconboxBgColor": "#303036",
             "iconFront": "glyphicon glyphicon-search",
@@ -57,7 +68,8 @@
             "headerItem": "Managing libraries",
             "descriptionItem": "<p>Manage your pages templates within a single library. Create and change your list of libraries easily by adding, updating or deleting them</p>",
             "order": 1
-        }, {
+        },
+        {
             "title": "Card 3",
             "iconboxBgColor": "#fc5130",
             "iconFront": "glyphicon glyphicon-time",
