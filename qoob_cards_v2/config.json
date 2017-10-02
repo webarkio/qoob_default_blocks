@@ -59,10 +59,10 @@
             "label": "Text back",
             "type": "textarea"
         }, {
-            "name": "bgColorPack",
+            "name": "bgColorBack",
             "type": "colorpicker",
             "label": "Background color",
-            "colors": ["#5b3381 ", "#efb20d ", "#48a348 "]
+            "colors": ["#5b3381", "#efb20d", "#48a348"]
         }]
     }],
     "defaults": {
