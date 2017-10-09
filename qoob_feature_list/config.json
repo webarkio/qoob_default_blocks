@@ -41,8 +41,6 @@
             "name": "featureListItems",
             "label": "Feature list items",
             "type": "accordion",
-            "viewcontent": "standart",
-            "viewType": "expand",
             "settings": [
             {
                 "name": "title",

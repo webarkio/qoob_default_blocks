@@ -12,7 +12,7 @@
         "type": "textarea"
     }, {
         "name": "testimonial",
-        "label": "Video",
+        "label": "Testimonials",
         "type": "accordion",
         "settings": [{
             "name": "title",
