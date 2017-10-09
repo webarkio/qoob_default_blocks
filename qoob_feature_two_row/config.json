@@ -13,7 +13,7 @@
     }, {
         "name": "featureRow",
         "label": "Rows",
-        "type": "accordion",
+        "type": "accordion_flip",
         "settings": [{
             "name": "title",
             "label": "Title",
@@ -109,7 +109,7 @@
                 "descriptionItem": "<p>Add your own text here. Make it short and clear</p>",
                 "order": 2
             }, {
-                "title": "Item 3",
+                "title": "Item 4",
                 "figureForm": "square",
                 "figureBgColor": "#33032f",
                 "iconFront": "glyphicon glyphicon-map-marker",
