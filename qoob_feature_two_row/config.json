@@ -13,7 +13,7 @@
     }, {
         "name": "featureRow",
         "label": "Rows",
-        "type": "accordion_flip",
+        "type": "accordion",
         "settings": [{
             "name": "title",
             "label": "Title",
