@@ -16,7 +16,7 @@
 jQuery( document ).ready(function() {
     var windowHeight = jQuery(window).height();
     var windowWidth = jQuery(window).width();
-    if(windowWidth > 767) {
+    if(windowWidth > 768) {
         jQuery('.qoob-text-{{id}}').css('height', windowHeight);
     } else {
         jQuery('.qoob-text-{{id}}').css('height', 'auto');
@@ -25,7 +25,7 @@ jQuery( document ).ready(function() {
 jQuery( window ).resize(function() {
     var windowHeight = jQuery(window).height();
     var windowWidth = jQuery(window).width();
-    if(windowWidth > 767) {
+    if(windowWidth > 768) {
         jQuery('.qoob-text-{{id}}').css('height', windowHeight);
     } else {
         jQuery('.qoob-text-{{id}}').css('height', 'auto');
