@@ -40,7 +40,7 @@
         }, {
             "name": "featureListItems",
             "label": "Feature list items",
-            "type": "accordion",
+            "type": "accordion_flip",
             "settings": [
             {
                 "name": "title",
