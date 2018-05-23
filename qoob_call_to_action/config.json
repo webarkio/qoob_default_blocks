@@ -62,7 +62,7 @@
         "bgImageUrl": "%block_url%/assets/img/call_to_action_bg.jpg",
         "actionText": "Try now",
         "actionHover" : "hdf",
-        "actionUrl": "http://webark.com/qoob/",
+        "actionUrl": "http://qoob-builder.com/",
         "description": "<p>Add this call-to action block to your own website</p>"
     }
 }

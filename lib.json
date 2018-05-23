@@ -97,7 +97,7 @@
         "url": "qoob_feature_two_row/"
     }, {
         "name": "assets",
-        "url": "https://webark.com/qoob/blocks/default/media/"
+        "url": "http://qoob-builder.com/blocks/default/media/"
     }, {
         "name": "glyphicons",
         "url": "glyphicons/"
