@@ -97,7 +97,7 @@
         "url": "qoob_feature_two_row/"
     }, {
         "name": "assets",
-        "url": "http://qoob-builder.com/blocks/default/media/"
+        "url": "media/"
     }, {
         "name": "glyphicons",
         "url": "glyphicons/"
