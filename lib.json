@@ -10,10 +10,6 @@
         "label": "Text",
         "position": 1
     }, {
-        "id": "gallery",
-        "label": "Gallery",
-        "position": 6
-    }, {
         "id": "video",
         "label": "Video",
         "position": 2
@@ -29,6 +25,10 @@
         "id": "progressBar",
         "label": "Progress bars",
         "position": 5
+    }, {
+        "id": "gallery",
+        "label": "Gallery",
+        "position": 6
     }, {
         "id": "iconBox",
         "label": "Icon boxes",
@@ -97,7 +97,7 @@
         "url": "qoob_feature_two_row/"
     }, {
         "name": "assets",
-        "url": "https://webark.com/qoob/blocks/default/media/"
+        "url": "http://qoob-builder.com/blocks/default/media/"
     }, {
         "name": "glyphicons",
         "url": "glyphicons/"
